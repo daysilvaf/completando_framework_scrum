@@ -1,1 +1,1 @@
-# completando_framework_scrum
+Atividade de desafio de projeto da Formação Scrum Master Certification da DIO onde o objetivo do desafio foi fixar os pilares do Scrum, bem como reforçar os aspectos fundamentais do Framework Scrum: Responsabilidades, eventos e artefatos. 
